@@ -1,7 +1,8 @@
 # Portafolio de Análisis y Visualización de Datos
 
 **Mónica Espinoza Vega**
- Bachiller en Economía Agrícola y Agronegocios, Universidad de Costa Rica
+
+Bachiller en Economía Agrícola y Agronegocios, Universidad de Costa Rica
 
 🔗 Ver portafolio: https://monicaev.github.io
 
