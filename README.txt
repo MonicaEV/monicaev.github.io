@@ -1,32 +1,15 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Portafolio de Análisis y Visualización de Datos
 
+**Mónica Espinoza Vega**
+Bachiller en Economía Agrícola y Agronegocios, Universidad de Costa Rica
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+🔗 Ver portafolio: https://monicaev.github.io
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## Proyectos
+- **Proyecto 1: Ventas, rentabilidad y descuentos (2021–2024).** Análisis en Power BI de cómo los descuentos afectan la rentabilidad de una cadena minorista.
+- **Proyecto 2:** en preparación.
+- **Proyecto 3:** en preparación.
 
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## Herramientas
+Power BI · Power Query · DAX · HTML/CSS
+Diseño de la página basado en la plantilla Massively de HTML5 UP.
