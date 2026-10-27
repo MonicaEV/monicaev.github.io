@@ -12,5 +12,4 @@ Bachiller en Economía Agrícola y Agronegocios, Universidad de Costa Rica
 - **Proyecto 3:** en preparación.
 
 ## Herramientas
-Power BI · Power Query · DAX · HTML/CSS
-Diseño de la página basado en la plantilla Massively de HTML5 UP.
+Power BI · Power Query · DAX · HTML/CSS . Diseño de la página basado en la plantilla Massively de HTML5 UP.
